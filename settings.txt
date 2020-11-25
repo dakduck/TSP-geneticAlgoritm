@@ -1,0 +1,6 @@
+mut: 400
+mutParam: 2
+cross: 90
+vecNumber: 200
+cycles: 4000
+randomFunction: 0
